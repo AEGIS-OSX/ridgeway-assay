@@ -1,0 +1,7 @@
+.social-proof-section { background-color: var(--color-surface-dark); padding-block: var(--space-8); overflow: hidden; }
+.social-proof-inner { max-width: 1280px; margin: 0 auto; padding: 0 0 0 var(--space-8); display: grid; grid-template-columns: 60% 40%; gap: var(--space-7); align-items: center; }
+.social-proof-quote { padding-right: var(--space-7); }
+.pull-quote { font-family: var(--font-display); font-size: var(--text-xl); font-weight: 500; line-height: 1.4; color: var(--color-text-on-dark); margin: 0 0 var(--space-4); max-width: 48ch; }
+.pull-cite { font-family: var(--font-body); font-size: var(--text-xs); color: var(--color-muted); font-style: normal; letter-spacing: 0.02em; text-transform: uppercase; }
+.social-proof-img { width: 100%; height: 100%; object-fit: cover; display: block; min-height: 400px; }
+@media (max-width: 768px) { .social-proof-inner { grid-template-columns: 1fr; padding: 0 var(--space-3); gap: var(--space-5); } .social-proof-img { min-height: 240px; } }
