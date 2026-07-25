@@ -15,7 +15,7 @@ export default function Footer() {
           </nav>
           <div className={styles["footer-nav"]}>
             <a href="tel:+18005550199" className={styles["footer-link"]}>800-555-0199</a>
-            <a href="mailto:info@ridgewayassay.com" className={styles["footer-link"]}>info@ridgewayassay.com</a>
+            <a href="mailto:contact@ridgewayassay.cc" className={styles["footer-link"]}>contact@ridgewayassay.cc</a>
           </div>
         </div>
         <div className={styles["footer-bottom"]}>
