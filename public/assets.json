@@ -1,37 +1,37 @@
 {
   "logo": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ridgeway-assay/cleo/1785004182426-logo.png",
+    "alt": "A minimalist, flat vector logo mark for Ridgeway Assay. It combines a furrowed field motif with a vertical test tube silhouette to represent agricultural precision. The palette uses Soil Charcoal and ",
     "width": 1024,
     "height": 1024
   },
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ridgeway-assay/cleo/1785004004658-hero.png",
+    "alt": "A tactile, high-fidelity hero image featuring a ceramic crucible of soil and a brass probe, emphasizing the institutional authority and technical precision of Ridgeway Assay through a restrained palet",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ridgeway-assay/cleo/1785004021850-feature_1.png",
+    "alt": "A high-fidelity asset for the first feature slot, depicting a soil sample bag and brass probe. The image uses the Field Linen and Soil Charcoal palette to establish a sense of institutional trust and ",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ridgeway-assay/cleo/1785004052153-feature_2.png",
+    "alt": "A high-precision overhead shot of a chain-of-custody document and soil sample vial, emphasizing the 'chain-of-custody tracking' capability through institutional textures and a restrained, authoritativ",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ridgeway-assay/cleo/1785004010163-feature_3.png",
+    "alt": "A top-down macro shot of certified soil reports and a brass soil probe, emphasizing the 'certified nutrient reports' feature through tactile paper textures and the Verification Green certification sta",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/ridgeway-assay/cleo/1785004320435-social_proof.png",
+    "alt": "A macro shot of a weathered wooden fence post against a muted, harvested field. The image uses a desaturated palette and natural lighting to convey the 'working institution' mood and provides ample ne",
     "width": 1200,
     "height": 800
   }
