@@ -6,7 +6,7 @@ interface ProjectImageProps {
   alt?: string;
 }
 
-export default function ProjectImage({ id, className, alt }: ProjectImageProps) {
+export function ProjectImage({ id, className, alt }: ProjectImageProps) {
   return (
     <img
       src={`/images/${id}.png`}
