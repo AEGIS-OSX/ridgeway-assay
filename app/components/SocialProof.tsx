@@ -15,8 +15,8 @@ export default function SocialProof() {
       <div className={styles["social-proof-inner"]}>
         <div className={styles["social-proof-quote"]}>
           <blockquote className={styles["pull-quote"]}>
-            Ridgeway&apos;s certified reports gave our board the documentation they needed to approve a $2.4M soil remediation program. The chain-of-custody trail was airtight.
-            <cite className={styles["pull-cite"]}>Marcus Teller, Operations Director, Prairie Grain Co-operative</cite>
+            Ridgeway reduced our testing turnaround by three days during the peak spring window. The accreditation codes on every report give our members the confidence they need for precision application.
+            <cite className={styles["pull-cite"]}>Operations Manager, Tri-County Ag Co-op, Nebraska.</cite>
           </blockquote>
         </div>
         <div>
