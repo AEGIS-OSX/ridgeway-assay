@@ -1,19 +1,17 @@
-"use client";
-import assets from "../../public/assets.json";
+import React from "react";
 
-type AssetKey = keyof typeof assets;
+interface ProjectImageProps {
+  id: "logo" | "hero" | "feature_1" | "feature_2" | "feature_3" | "social_proof";
+  className?: string;
+  alt?: string;
+}
 
-export function ProjectImage({ id, className }: { id: AssetKey; className?: string }) {
-  const asset = assets[id];
-  if (!asset?.url) return null;
+export default function ProjectImage({ id, className, alt }: ProjectImageProps) {
   return (
     <img
-      src={asset.url}
-      alt={asset.alt}
-      width={asset.width}
-      height={asset.height}
+      src={`/images/${id}.png`}
+      alt={alt || ""}
       className={className}
-      loading={id === "hero" ? "eager" : "lazy"}
     />
   );
 }
